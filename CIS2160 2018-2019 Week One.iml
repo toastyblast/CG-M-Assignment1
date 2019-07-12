@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/gluegen-rt-natives-linux-i586.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/gluegen-rt-natives-windows-i586.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/gluegen-rt-natives-macosx-universal.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/gluegen-rt-natives-linux-amd64.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/gluegen-rt-natives-windows-amd64.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/CIS2160-StdDraw.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/CIS2160-StdDraw.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/gluegen-rt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/j3dcore.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/j3dutils.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/jogl-all-natives-linux-amd64.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/jogl-all-natives-linux-i586.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/jogl-all-natives-macosx-universal.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/jogl-all-natives-windows-amd64.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/jogl-all-natives-windows-i586.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/jogl-all.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/EHU module files/CIS2160 Computer Graphics &amp; Modelling/CIS2160 Java 2D &amp; 3D helper classes/vecmath.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
